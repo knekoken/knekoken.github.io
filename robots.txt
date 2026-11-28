@@ -4,3 +4,4 @@ Allow: /
 Sitemap: https://knekoken.github.io/sitemap.xml
 Sitemap: https://knekoken.github.io/blog/sitemap.xml
 Sitemap: https://knekoken.github.io/lectures/sitemap.xml
+Sitemap: https://knekoken.github.io/streact/sitemap.xml
